@@ -5,8 +5,6 @@ import { initializer } from './keycloak-initializer';
 import { AuthGuard } from './auth.guard';
 import { AuthService } from './service/auth.service';
 
-
-
 @NgModule({
   declarations: [],
   imports: [
